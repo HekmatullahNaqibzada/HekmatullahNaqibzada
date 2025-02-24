@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hekmatullah Naqibzada!
 
-<!--
-**HekmatullahNaqibzada/HekmatullahNaqibzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 💻 Full Stack Developer | 🌍 Open to Remote Work
 
-Here are some ideas to get you started:
+## 📌 About Me
+- 🔹 6+ years of experience in **web development & database systems**.
+- 🔹 Skilled in **Laravel, React, Vue, MySQL, PHP, JavaScript**.
+- 🔹 Passionate about building scalable applications.
+- 🔹 Open to freelance and remote work opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Best Projects
+### **1. [Project Name](https://github.com/your-username/project-repo)**
+   - 📌 **Tech Stack**: Laravel, Vue.js, Tailwind CSS
+   - 🚀 **Live Demo**: [Website Link](https://yourwebsite.com)
+   - 🔹 **Description**: A project management system with Kanban board & user roles.
+
+### **2. [Another Project](https://github.com/your-username/project-repo)**
+   - 📌 **Tech Stack**: React, Node.js, MongoDB
+   - 🚀 **Live Demo**: [Website Link](https://yourwebsite.com)
+   - 🔹 **Description**: A task-tracking dashboard with real-time updates.
+
+## 📫 Contact Me
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
