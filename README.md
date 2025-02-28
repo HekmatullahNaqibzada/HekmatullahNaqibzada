@@ -27,11 +27,12 @@
    - 📌 **Tech Stack**: Laravel, Bootstrap, Ajax, jQuery, MySQL, Quickadminpanel.
    - 🚀 **Live Demo**: [Website Link](https://www.sportzone.org.nz/)
    - 🔹 **Description**: Maintenance and redevelopment of an already developed web Application of SportZone football company in New Zealand.
-   - 
+     
 ### **4. [AWMIS UK]**
    - 📌 **Tech Stack**: Core PHP, Bootstrap, Ajax, jQuery, MySQL,
    - 🚀 **Live Demo**: [Web Application Link](https://afghanwriter.co.uk/)
    - 🔹 **Description**: Afghan Writer Management Information System: Web Application and database for Afghan Writer Translation and Interpretation Center.
+
 
 ## 📫 Contact Me
 - 📧 Email: hekmat.naqibzda@spottech.co.nz | hekmat.naqibzada@gmail.com
