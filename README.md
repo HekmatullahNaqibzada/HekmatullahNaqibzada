@@ -3,9 +3,9 @@
 🚀 Software Engineer | 💻 Full Stack Developer | 🌍 Open to Remote Work
 
 ## 📌 About Me
-- 🔹 Overall 6+ years of experience in **web development & database systems**.
+- 🔹 Overall 7+ years of experience in **web development & database systems**.
 - 🔹 3 years of experience as full-time **software engineer at international NGOs**.
-- 🔹 2 years of experience as freelance at **Spottech NewZealand**.
+- 🔹 2 years of experience as a freelancer at **Spottech NewZealand**.
 - 🔹 Skilled in **Java, Laravel, React, Vue, MySQL, SQL Server, PHP, JavaScript, API Development**.
 - 🔹 Learning **Python, React Native, Flutter** at.
 - 🔹 Database development and Normalization expert.
@@ -34,7 +34,7 @@
    - 🔹 **Description**: Afghan Writer Management Information System: Web Application and database for the Afghan Writer Translation and Interpretation Center.
 
 
-### **4. Gulab Tahir Group Website**
+### **5. Gulab Tahir Group Website**
    - 📌 **Tech Stack**: ReactJS, TypeScript, TailwindCSS, Laravel, MySQL,
    - 🚀 **Live Demo**: Website Link (https://gulabtahirgroup.com/)
    - 🔹 **Description**: Design and develop the Gulab Tahir Trading & Company Limited website, which has grown from a local trading company into a diverse business group with operations spanning Afghanistan, the UAE, Pakistan, the UK, and Canada.
