@@ -19,7 +19,6 @@ Over the years, I have worked with **international NGOs, private organizations, 
 - 💼 **7+ years** in software development & database systems  
 - 🌍 **3+ years** as a Software Engineer in international NGOs  
 - 🇳🇿 **2+ years** as a Freelance Developer with Spottech (New Zealand)  
-- 🏢 Currently working as a **Full Stack Software Developer at SkillUp Consultancy Services (Mar 2026 – Present)**  
 - ⚙️ Strong expertise in **Laravel, PHP, React, Vue, MySQL, REST APIs, and enterprise systems**  
 - 🗄️ Advanced knowledge of **database architecture, optimization & normalization**  
 - 🧠 Currently expanding skills in **Python, Flutter, React Native & AI-assisted development**  
@@ -37,6 +36,28 @@ Working as a **Full Stack Software Developer** on digital solutions and organiza
 
 **Key Focus Areas:**  
 `Laravel` `React` `PHP` `MySQL` `REST APIs` `MIS Development` `System Architecture`
+
+---
+
+### Software Engineer
+**ANAFAE (Afghan National Association for Adult Education)** · Full-time  
+📅 **2021 – 2025**
+
+Worked as a **Software Engineer** supporting digital systems, web applications, and database-driven solutions for organizational operations. Contributed to the development, maintenance, and enhancement of web platforms aimed at improving accessibility, operational efficiency, and digital transformation initiatives.
+
+**Key Focus Areas:**  
+`Laravel` `PHP` `MySQL` `Bootstrap` `Ajax` `jQuery` `MIS Development` `Database Systems`
+
+---
+
+### Freelance Full Stack Developer
+**Spottech Ltd (New Zealand)** · Freelance / Remote  
+📅 **2023 – 2025**
+
+Worked remotely as a **Freelance Full Stack Developer**, contributing to web-based systems and client projects with a focus on scalable architecture, performance optimization, and modern development practices.
+
+**Key Focus Areas:**  
+`Laravel` `PHP` `MySQL` `Web Applications` `REST APIs` `Frontend & Backend Development`
 
 ---
 
