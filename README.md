@@ -51,7 +51,7 @@ Open to **remote, freelance, and international opportunities**.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=HekmatullahNaqibzada&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HekmatullahNaqibzada&show_icons=true&include_all_commits=true&hide_border=true&count_private=true"/>
 
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=HekmatullahNaqibzada&hide_border=true"/>
 
