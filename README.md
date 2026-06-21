@@ -22,7 +22,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=HekmatullahNaqibzada&style=flat-square"/>
 
 </div>
 
@@ -51,9 +51,9 @@ Open to **remote, freelance, and international opportunities**.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HekmatullahNaqibzada&show_icons=true&include_all_commits=true&hide_border=true"/>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=HekmatullahNaqibzada&hide_border=true"/>
 
 </div>
 
@@ -61,7 +61,7 @@ Open to **remote, freelance, and international opportunities**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HekmatullahNaqibzada&hide_border=true"/>
 
 </div>
 
