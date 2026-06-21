@@ -1,165 +1,240 @@
-# 👋 Hi, I'm **Hekmatullah Naqibzada**
+# <div align="center">
 
-### 🚀 Software Engineer | Full Stack Developer | Digital Solutions Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=980&lines=Hekmatullah+Naqibzada;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Digital+Solutions;Laravel+%7C+React+%7C+Enterprise+Systems" />
 
-🌍 Building digital solutions globally | 💻 Open to Remote & Freelance Opportunities
+<br/>
 
-I build **secure, scalable, and impactful digital systems** for NGOs, enterprises, and startups — transforming complex workflows into modern web platforms.
+### Software Engineer • Full Stack Developer • Digital Solutions Architect
 
----
+<p>
 
-## 👨‍💻 About Me
+<a href="https://hekmatnaqibzada.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
 
-I am a **Software Engineer and Full Stack Developer** with **7+ years of hands-on experience** in designing, developing, and maintaining web-based applications, MIS platforms, and enterprise systems.
+<a href="https://linkedin.com/in/hekmatullah-naqibzada">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
 
-Over the years, I have worked with **international NGOs, private organizations, consultancy firms, and global clients**, building solutions focused on performance, automation, usability, and scalability.
+<a href="mailto:hekmat.naqibzada@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 
-### 🔹 Professional Highlights
+</p>
 
-- 💼 **7+ years** in software development & database systems  
-- 🌍 **3+ years** as a Software Engineer in international NGOs  
-- 🇳🇿 **2+ years** as a Freelance Developer with Spottech (New Zealand)  
-- ⚙️ Strong expertise in **Laravel, PHP, React, Vue, MySQL, REST APIs, and enterprise systems**  
-- 🗄️ Advanced knowledge of **database architecture, optimization & normalization**  
-- 🧠 Currently expanding skills in **Python, Flutter, React Native & AI-assisted development**  
-- 🤝 Open to **remote, freelance, and international collaborations**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
 
----
-
-## 💼 Professional Experience
-
-### Full Stack Software Developer
-**SkillUp Consultancy Services** · Part-time / Hybrid  
-📅 **Mar 2026 – Present**
-
-Working as a **Full Stack Software Developer** on digital solutions and organizational systems for consultancy operations. Responsible for developing and maintaining modern web applications, improving system architecture, and supporting digital transformation initiatives through scalable and user-focused technologies.
-
-**Key Focus Areas:**  
-`Laravel` `React` `PHP` `MySQL` `REST APIs` `MIS Development` `System Architecture`
+</div>
 
 ---
 
-### Software Engineer
-**ANAFAE (Afghan National Association for Adult Education)** · Full-time  
-📅 **2021 – 2025**
+# 👋 About Me
 
-Worked as a **Software Engineer** supporting digital systems, web applications, and database-driven solutions for organizational operations. Contributed to the development, maintenance, and enhancement of web platforms aimed at improving accessibility, operational efficiency, and digital transformation initiatives.
+Software Engineer and Full Stack Developer with **8+ years of experience (2018–2026)** building enterprise systems, management platforms, scalable web applications, and digital products.
 
-**Key Focus Areas:**  
-`Laravel` `PHP` `MySQL` `Bootstrap` `Ajax` `jQuery` `MIS Development` `Database Systems`
+Experienced in delivering solutions for international organizations, consultancy firms, NGOs, businesses, and remote clients.
 
----
+### Areas of Focus
 
-### Freelance Full Stack Developer
-**Spottech Ltd (New Zealand)** · Freelance / Remote  
-📅 **2023 – 2025**
+⚡ Enterprise Web Systems
+⚡ Full Stack Development
+⚡ System Architecture
+⚡ REST API Development
+⚡ Database Engineering
+⚡ Digital Transformation
 
-Worked remotely as a **Freelance Full Stack Developer**, contributing to web-based systems and client projects with a focus on scalable architecture, performance optimization, and modern development practices.
-
-**Key Focus Areas:**  
-`Laravel` `PHP` `MySQL` `Web Applications` `REST APIs` `Frontend & Backend Development`
+Open to **remote, freelance, and international opportunities**.
 
 ---
 
-## 🧱 Featured Projects
+# 📊 GitHub Analytics
 
-### 🌍 SkillUp Afghanistan
-**Tech Stack:** Laravel, React, Bootstrap, MySQL, REST APIs, MIS Architecture  
-🌐 **Website:** http://skillup-af.com
+<div align="center">
 
-A digital platform developed for a consultancy organization operating across multiple sectors in Afghanistan. The system supports organizational digital transformation through modern web technologies, structured content management, and scalable architecture.
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_border=true"/>
 
----
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true"/>
 
-### 🏛️ ANAFAE Website
-**Tech Stack:** Laravel, Bootstrap, Ajax, jQuery, MySQL  
-🌐 **Website:** https://anafae.af
+</div>
 
-A modern and responsive organizational website developed for the Afghan National Association for Adult Education (ANAFAE), improving accessibility and strengthening digital presence.
+<br/>
 
----
+<div align="center">
 
-### 🌐 AECA New Zealand
-**Tech Stack:** Laravel, Bootstrap, Ajax, jQuery, MySQL  
-🌐 **Website:** http://aeca.org.nz/
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
 
-A professional organizational website developed for a New Zealand-based community organization, focused on strengthening digital presence, accessibility, content management, and community engagement.
+</div>
 
 ---
 
-### 🔐 VERI-Mi *(Private Repository)*
-**Tech Stack:** Laravel, MySQL, Flutter, WordPress  
-🌐 **Website:** https://verimi.org.nz
+# 🧠 Technology Stack
 
-A hybrid mobile and web platform built for New Zealand workplaces to support employment verification and improve transparency around labor conditions.
+## ⚙ Backend
 
----
+<p>
 
-### ⚽ SportZone New Zealand
-**Tech Stack:** Laravel, Bootstrap, Ajax, jQuery, MySQL, QuickAdminPanel  
-🌐 **Website:** https://www.sportzone.org.nz
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
 
-Redevelopment and optimization of a sports management platform focused on improving UI/UX, performance, and administrative functionality.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
 
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
 
-### ✍️ AWMIS UK (Afghan Writer MIS)
-**Tech Stack:** Core PHP, Bootstrap, Ajax, jQuery, MySQL  
-🌐 **Website:** https://afghanwriter.co.uk
+<img src="https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge"/>
 
-A Management Information System (MIS) developed to streamline workflows, project tracking, and organizational record management.
+<img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
 
-### 🏗️ Gulab Tahir Group Website
-**Tech Stack:** React, TypeScript, TailwindCSS, Laravel, MySQL  
-🌐 **Website:** https://gulabtahirgroup.com
+<img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge"/>
 
-A corporate website showcasing international operations and business presence across Afghanistan, UAE, Pakistan, UK, and Canada.
+<img src="https://img.shields.io/badge/MVC-16A34A?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## ⚙️ Technical Skills
+## 🎨 Frontend
 
-### Backend Development
-`PHP` `Laravel` `REST APIs` `Node.js`
+<p>
 
-### Frontend Development
-`React` `Vue.js` `JavaScript` `HTML` `CSS` `Bootstrap` `TailwindCSS`
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 
-### Database Systems
-`MySQL` `SQL Server` `MariaDB`
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs"/>
 
-### Dev Tools & Workflow
-`Git` `Docker` `CI/CD` `Linux` `Postman`
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 
-### Design & UI/UX
-`Adobe Photoshop` `Illustrator` `Canva` `UI/UX Design`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 
----
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
-## 🧭 What Drives Me
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
 
-I enjoy building systems that solve real operational problems — combining **clean architecture, usability, and scalability** to create software that delivers measurable impact.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 
-I believe technology should simplify complexity and empower organizations to work smarter.
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🗄 Database
 
-📧 **Email**  
-- hekmat.naqibzda@spottech.co.nz  
-- hekmat.naqibzada@gmail.com
+<p>
 
-🌐 **Portfolio**  
-http://hekmatnaqibzada.com
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-💼 **LinkedIn**  
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Design-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Optimization-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Normalization-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Dev Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
+
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer"/>
+
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### Bachelor's Degree — Software Engineering / Computer Science
+
+Core Areas:
+
+* Software Engineering
+* Database Systems
+* System Architecture
+* Application Development
+
+---
+
+# 🚀 Featured Projects
+
+| Project                 | Description                          | Technologies               |
+| ----------------------- | ------------------------------------ | -------------------------- |
+| 🌍 OJWA                 | Organizational digital platform      | Laravel • React • MySQL    |
+| 🇬🇧 PAKTAS             | International professional platform  | React • Laravel • Tailwind |
+| 🚀 Nexi-US Digital Hub  | Modern digital agency platform       | React • TypeScript         |
+| 🌍 SkillUp Afghanistan  | Consultancy transformation platform  | Laravel • React            |
+| 🏛 ANAFAE               | Organizational information system    | Laravel • Bootstrap        |
+| 🌐 AECA New Zealand     | Community web platform               | Laravel • MySQL            |
+| 🔐 VERI-Mi              | Employment verification platform     | Laravel • Flutter          |
+| ⚽ SportZone New Zealand | Sports management platform           | Laravel                    |
+| ✍️ AWMIS UK             | Writer Management Information System | PHP • MySQL                |
+| 🏗 Gulab Tahir Group    | Corporate international platform     | React • Laravel            |
+
+---
+
+# 📈 Engineering Focus
+
+```text
+Enterprise Systems     ████████████ 95%
+Laravel                ████████████ 95%
+Database Engineering   ███████████░ 92%
+API Development        ███████████░ 91%
+React                  ██████████░░ 88%
+UI / UX                █████████░░░ 82%
+DevOps                 ████████░░░░ 76%
+```
+
+---
+
+# 🏆 Highlights
+
+🏅 8+ Years Professional Experience
+🌍 International NGO & Global Client Experience
+⚡ Enterprise System Development
+🚀 Remote & Freelance Delivery
+🧩 End-to-End Product Architecture
+
+---
+
+# 🌐 Connect
+
+### Portfolio
+
+https://hekmatnaqibzada.com
+
+### LinkedIn
+
 https://linkedin.com/in/hekmatullah-naqibzada
 
+### Email
+
+[hekmat.naqibzada@gmail.com](mailto:hekmat.naqibzada@gmail.com)
+
 ---
 
-> *“Turning complex ideas into practical, scalable, and elegant digital solutions.”*
+<div align="center">
 
-⭐ **Feel free to explore my repositories, collaborate, or connect!**
+### Turning complex ideas into scalable digital solutions.
+
+⭐ Explore • Collaborate • Build
+
+</div>
