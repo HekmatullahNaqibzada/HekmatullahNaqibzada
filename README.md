@@ -106,12 +106,17 @@ For additional project details and background, explore my [personal portfolio](h
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HekmatullahNaqibzada&hide_border=true&theme=github-compact" alt="Hekmatullah's GitHub contribution activity" width="100%" />
+  <a href="https://github.com/HekmatullahNaqibzada">
+    <img
+      src="https://ghchart.rshah.org/2563eb/HekmatullahNaqibzada"
+      alt="Hekmatullah's GitHub contribution activity over the past year"
+      width="100%"
+    />
+  </a>
 
 </div>
 
 > **Note:** My public contribution history does not represent all professional development work, because many client and employer repositories are private.
-
 ## 🎓 Education
 
 **Bachelor of Computer Science (Database & Programming)**  
