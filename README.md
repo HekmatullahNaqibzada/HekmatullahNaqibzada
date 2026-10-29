@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <a href="https://hekmatnaqibzada.com" title="Explore my portfolio">
@@ -63,22 +62,22 @@ I enjoy connecting business requirements with reliable engineering: understandin
 
 ## 🌍 Selected Projects, Products & Client Work
 
-These projects reflect work I have delivered or contributed to through personal initiatives, direct engagements, and professional teams. The links lead to **public websites of the respective organizations**; internal management systems and private source repositories may not be publicly accessible.
+These projects reflect work I have delivered or contributed to through personal initiatives, direct engagements, and professional teams. The links lead to **public websites of the respective organizations**; internal management systems and private source repositories may not be publicly accessible. Project-specific implementation details are intentionally omitted.
 
-| Project | Overview | Technologies | Website |
-| --- | --- | --- | --- |
-| **ANAFAE — Afghanistan** | Organizational website with dynamic information, programs, news, and public engagement | Laravel, PHP, MySQL, Bootstrap | [Visit ANAFAE](https://anafae.af/) |
-| **OJWA — Afghanistan** | Responsive nonprofit digital platform for organizational information, programs, and public engagement | Laravel, React, MySQL | [Visit OJWA](https://ojwa.org/) |
-| **PAKTAS — United Kingdom** | Translation and interpreting services platform with client, booking, and operational workflows | React, Laravel, Tailwind CSS | [Visit PAKTAS](https://paktas.co.uk/) |
-| **Composting NZ — New Zealand** | Full-stack online store for compost, soils, mulches, and landscaping supplies, with product catalogs, checkout, shipping, and administration workflows | Next.js, Laravel, MySQL, Stripe | [Visit Composting NZ](https://compostingnz.co.nz/) |
-| **Gulab Tahir Group — Afghanistan** | Corporate website with dynamic content management and a modern interface | React, TypeScript, Laravel | [Visit Gulab Tahir Group](https://gulabtahirgroup.com/) |
-| **NEXI-US Digital Hub — United States** | Company web presence and digital business platform | React, TypeScript | [Visit NEXI-US](https://nexi-us.com/) |
-| **EggShell — United States** | Career-focused education website featuring training programs and admissions information | Web development, responsive UI | [Visit EggShell](https://eggshellc.com/) |
-| **Khurasan Digital — Afghanistan** | Software and digital services company website showcasing solutions and service offerings | Web development, responsive UI | [Visit Khurasan Digital](https://khurasandigital.com/) |
-| **SkillUp Consultancy Services — Afghanistan** | Consultancy website and digital business platform | Laravel, React | [Visit SkillUp](https://skillup-af.com/) |
-| **AECA — New Zealand** | Public-facing community organization website | Laravel, MySQL | [Visit AECA](https://aeca.org.nz/) |
-| **SportZone — New Zealand** | Football club, registration, and sports-management platform | Laravel | [Visit SportZone](https://sportzone.org.nz/) |
-| **AWMIS — Afghan Writer** | Internal translation operations system covering projects, clients, translators, and administrative workflows | PHP, MySQL | [Visit Afghan Writer](https://afghanlikwal.com/) |
+| Project | Overview | Website |
+| --- | --- | --- |
+| **ANAFAE — Afghanistan** | Organizational website with dynamic information, programs, news, and public engagement | [Visit ANAFAE](https://anafae.af/) |
+| **OJWA — Afghanistan** | Responsive nonprofit digital platform for organizational information, programs, and public engagement | [Visit OJWA](https://ojwa.org/) |
+| **PAKTAS — United Kingdom** | Translation and interpreting services platform with client, booking, and operational workflows | [Visit PAKTAS](https://paktas.co.uk/) |
+| **Composting NZ — New Zealand** | Full-stack online store for compost, soils, mulches, and landscaping supplies, with product catalogs, checkout, shipping, and administration workflows | [Visit Composting NZ](https://compostingnz.co.nz/) |
+| **Gulab Tahir Group — Afghanistan** | Corporate website with dynamic content management and a modern interface | [Visit Gulab Tahir Group](https://gulabtahirgroup.com/) |
+| **NEXI-US Digital Hub — United States** | Company web presence and digital business platform | [Visit NEXI-US](https://nexi-us.com/) |
+| **EggShell — United States** | Career-focused education website featuring training programs and admissions information | [Visit EggShell](https://eggshellc.com/) |
+| **Khurasan Digital — Afghanistan** | Software and digital services company website showcasing solutions and service offerings | [Visit Khurasan Digital](https://khurasandigital.com/) |
+| **SkillUp Consultancy Services — Afghanistan** | Consultancy website and digital business platform | [Visit SkillUp](https://skillup-af.com/) |
+| **AECA — New Zealand** | Public-facing community organization website | [Visit AECA](https://aeca.org.nz/) |
+| **SportZone — New Zealand** | Football club, registration, and sports-management platform | [Visit SportZone](https://sportzone.org.nz/) |
+| **AWMIS — Afghan Writer** | Internal translation operations system covering projects, clients, translators, and administrative workflows | [Visit Afghan Writer](https://afghanlikwal.com/) |
 
 **A note about client work:** Some projects were delivered in collaboration with agencies or development teams. Public-facing websites are linked for reference; the presence of a website here does not mean its entire current codebase or all modules were developed exclusively by me.
 
@@ -86,10 +85,11 @@ These projects reflect work I have delivered or contributed to through personal 
 
 The following systems are not publicly linked to protect organizational access and privacy. Their functional scope is described only at a high level.
 
-| Project | Overview | Technologies | Public Access |
-| --- | --- | --- | --- |
-| **Second Chance Education — Online Learning Platform** | Online education platform supporting student access, virtual classes, and attendance workflows | Laravel, Jitsi, MySQL | **Private — no public link** |
-| **ANAFAE — HR & Payroll MIS** | Internal human resources and payroll management, including staff records, timesheets, salary processing, and reporting | PHP, MySQL | **Private — no public link** |
+| Project | Overview | Public Access |
+| --- | --- | --- |
+| **Second Chance Education — Online Learning Platform** | Online education platform supporting student access, virtual classes, and attendance workflows | **Private — no public link** |
+| **ANAFAE — HR & Payroll MIS** | Internal human resources and payroll management, including staff records, timesheets, salary processing, and reporting | **Private — no public link** |
+| **Task Management System** | Internal task assignment, team collaboration, progress tracking, and workflow coordination | **Private — no public link** |
 
 ### 🔒 Experience Beyond Public Repositories
 
