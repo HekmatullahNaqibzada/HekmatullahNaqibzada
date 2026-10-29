@@ -1,239 +1,120 @@
-# <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=980&lines=Hekmatullah+Naqibzada;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Digital+Solutions;Laravel+%7C+React+%7C+Enterprise+Systems" />
-
-<br/>
-
-### Software Engineer • Full Stack Developer • Digital Solutions Architect
-
-<p>
-
-<a href="https://hekmatnaqibzada.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/hekmatullah-naqibzada">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="mailto:hekmat.naqibzada@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=HekmatullahNaqibzada&style=flat-square"/>
-
-</div>
-
----
-
-# 👋 About Me
-
-Software Engineer and Full Stack Developer with **8+ years of experience (2018–2026)** building enterprise systems, management platforms, scalable web applications, and digital products.
-
-Experienced in delivering solutions for international organizations, consultancy firms, NGOs, businesses, and remote clients.
-
-### Areas of Focus
-
-⚡ Enterprise Web Systems
-⚡ Full Stack Development
-⚡ System Architecture
-⚡ REST API Development
-⚡ Database Engineering
-⚡ Digital Transformation
-
-Open to **remote, freelance, and international opportunities**.
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
+  <a href="https://hekmatnaqibzada.com" title="Explore my portfolio">
+    <img src="./assets/portfolio-banner.png" alt="Hekmatullah Naqibzada — Software Engineer and Technical Consultant" width="100%" />
+  </a>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=HekmatullahNaqibzada&hide_border=true&count_private=true"/>
+  <br />
+
+  <p>
+    <a href="https://hekmatnaqibzada.com"><img src="https://img.shields.io/badge/Personal_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio" /></a>
+    <a href="https://linkedin.com/in/hekmatullah-naqibzada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:hekmat.naqibzada@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=HekmatullahNaqibzada&style=flat-square&color=2563EB" alt="Profile views" />
 
 </div>
 
-<br/>
+## 👋 About Me
+
+I'm **Hekmatullah Naqibzada**, a software engineer, full-stack developer, and database professional based in **Kabul, Afghanistan**.
+
+With **8+ years of professional experience (2018–present)**, I build practical, maintainable digital solutions—from organizational websites and customer-facing applications to complex, database-driven management systems. My experience includes work with **NGOs, consulting firms, businesses, and international teams** across Afghanistan, New Zealand, the United Kingdom, and the United States.
+
+I enjoy connecting business requirements with reliable engineering: understanding the problem, designing the data model, developing the application, and supporting it after launch.
+
+- 💼 **Core work:** Enterprise systems, web applications, REST APIs, and database engineering
+- 🧩 **Approach:** Clear architecture, usable interfaces, maintainable code, and long-term support
+- 🌍 **Collaboration:** Remote teams, international clients, and cross-functional stakeholders
+- 🤝 **Availability:** Open to relevant remote opportunities, freelance projects, and technical collaborations
+
+> **My goal:** Turn complex business needs into software that people can depend on.
+
+## 🛠️ What I Work On
+
+| Area | What I Deliver |
+| --- | --- |
+| **Enterprise & Management Systems** | HR and payroll, student and staff management, workflows, reporting, and operational platforms |
+| **Full-Stack Web Applications** | Custom applications with responsive frontends, reliable backends, and role-based access |
+| **API & Backend Development** | REST APIs, third-party integrations, authentication, and business logic |
+| **Database Engineering** | Schema design, complex queries, data integrity, optimization, and reporting |
+| **Business Websites & Portals** | Dynamic corporate websites, client portals, administrative dashboards, and content platforms |
+| **Delivery & Maintenance** | Deployment support, troubleshooting, enhancement, and long-term maintenance |
+
+## 💻 Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+| Category | Technologies & Tools |
+| --- | --- |
+| **Backend** | PHP, Laravel, REST APIs, Livewire, Node.js, MVC architecture |
+| **Frontend** | React, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Vue.js, jQuery, AJAX |
+| **Databases** | MySQL, MariaDB, Microsoft SQL Server, relational database design and query optimization |
+| **Development & Delivery** | Git, GitHub, Docker, Linux, Postman, Vite, Composer, npm |
+
+## 🌍 Selected Projects & Client Work
+
+These projects reflect different types of work I have delivered or contributed to through direct engagements and professional teams. The links lead to **public websites of the respective organizations**; internal management systems and private source repositories may not be publicly accessible.
+
+| Project | Overview | Technologies | Website |
+| --- | --- | --- | --- |
+| **ANAFAE — Afghanistan** | Organizational website and database-driven administrative systems, including HR/payroll workflows | Laravel, PHP, MySQL, Bootstrap | [Visit ANAFAE](https://anafae.af/) |
+| **OJWA — Afghanistan** | Responsive nonprofit digital platform for organizational information, programs, and public engagement | Laravel, React, MySQL | [Visit OJWA](https://ojwa.org/) |
+| **PAKTAS — United Kingdom** | Translation and interpreting services platform with client, booking, and operational workflows | React, Laravel, Tailwind CSS | [Visit PAKTAS](https://paktas.co.uk/) |
+| **Gulab Tahir Group — Afghanistan** | Corporate website with dynamic content management and a modern interface | React, TypeScript, Laravel | [Visit Gulab Tahir Group](https://gulabtahirgroup.com/) |
+| **NEXI-US Digital Hub — United States** | Company web presence and digital business platform | React, TypeScript | [Visit NEXI-US](https://nexi-us.com/) |
+| **SkillUp Consultancy Services — Afghanistan** | Consultancy website and digital business platform | Laravel, React | [Visit SkillUp](https://skillup-af.com/) |
+| **AECA — New Zealand** | Public-facing community organization website | Laravel, MySQL | [Visit AECA](https://aeca.org.nz/) |
+| **VERI-Mi — New Zealand** | Employment-rights information and verification platform for migrant workers | Laravel, Flutter | [Visit VERI-Mi](https://verimi.org.nz/) |
+| **SportZone — New Zealand** | Football club, registration, and sports-management platform | Laravel | [Visit SportZone](https://sportzone.org.nz/) |
+| **AWMIS — Afghan Writer** | Internal translation operations system covering projects, clients, translators, and administrative workflows | PHP, MySQL | [Visit Afghan Writer](https://afghanlikwal.com/) |
+
+**A note about client work:** Some projects were delivered in collaboration with agencies or development teams. Public-facing websites are linked for reference; the presence of a website here does not mean its entire current codebase or all modules were developed exclusively by me.
+
+### 🔒 Experience Beyond Public Repositories
+
+Much of my professional work involves **private repositories and internal systems** that cannot be shared openly. Examples of the problems I have worked on include:
+
+- HR, attendance, payroll, and employee administration
+- Student registration, enrollment, and education management
+- Translation orders, translator workflows, and business operations
+- Reporting, approval workflows, relational data, and API integration
+
+For additional project details and background, explore my [personal portfolio](https://hekmatnaqibzada.com).
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HekmatullahNaqibzada&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HekmatullahNaqibzada&hide_border=true&theme=github-compact" alt="Hekmatullah's GitHub contribution activity" width="100%" />
 
 </div>
 
----
+> **Note:** My public contribution history does not represent all professional development work, because many client and employer repositories are private.
 
-# 🧠 Technology Stack
+## 🎓 Education
 
-## ⚙ Backend
+**Bachelor of Computer Science (Database & Programming)**  
+Allamah Institute of Higher Education, Afghanistan
 
-<p>
+## 🤝 Let's Build Something Useful
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-
-<img src="https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
-
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MVC-16A34A?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database_Design-0F766E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Optimization-22C55E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Normalization-2563EB?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🚀 Dev Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer"/>
-
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm"/>
-
-</p>
-
----
-
-# 🎓 Education
-
-### Bachelor's Degree — Software Engineering / Computer Science
-
-Core Areas:
-
-* Software Engineering
-* Database Systems
-* System Architecture
-* Application Development
-
----
-
-# 🚀 Featured Projects
-
-| Project                 | Description                          | Technologies               |
-| ----------------------- | ------------------------------------ | -------------------------- |
-| 🌍 OJWA                 | Organizational digital platform      | Laravel • React • MySQL    |
-| 🇬🇧 PAKTAS             | International professional platform  | React • Laravel • Tailwind |
-| 🚀 Nexi-US Digital Hub  | Modern digital agency platform       | React • TypeScript         |
-| 🌍 SkillUp Afghanistan  | Consultancy transformation platform  | Laravel • React            |
-| 🏛 ANAFAE               | Organizational information system    | Laravel • Bootstrap        |
-| 🌐 AECA New Zealand     | Community web platform               | Laravel • MySQL            |
-| 🔐 VERI-Mi              | Employment verification platform     | Laravel • Flutter          |
-| ⚽ SportZone New Zealand | Sports management platform           | Laravel                    |
-| ✍️ AWMIS UK             | Writer Management Information System | PHP • MySQL                |
-| 🏗 Gulab Tahir Group    | Corporate international platform     | React • Laravel            |
-
----
-
-# 📈 Engineering Focus
-
-```text
-Enterprise Systems     ████████████ 95%
-Laravel                ████████████ 95%
-Database Engineering   ███████████░ 92%
-API Development        ███████████░ 91%
-React                  ██████████░░ 88%
-UI / UX                █████████░░░ 82%
-DevOps                 ████████░░░░ 76%
-```
-
----
-
-# 🏆 Highlights
-
-🏅 8+ Years Professional Experience
-🌍 International NGO & Global Client Experience
-⚡ Enterprise System Development
-🚀 Remote & Freelance Delivery
-🧩 End-to-End Product Architecture
-
----
-
-# 🌐 Connect
-
-### Portfolio
-
-https://hekmatnaqibzada.com
-
-### LinkedIn
-
-https://linkedin.com/in/hekmatullah-naqibzada
-
-### Email
-
-[hekmat.naqibzada@gmail.com](mailto:hekmat.naqibzada@gmail.com)
-
----
+Whether you need a reliable management system, a custom web application, an API integration, or a developer who understands both business processes and implementation, I'd be happy to connect.
 
 <div align="center">
 
-### Turning complex ideas into scalable digital solutions.
+  <a href="https://hekmatnaqibzada.com"><img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hekmat.naqibzada@gmail.com"><img src="https://img.shields.io/badge/Discuss_a_Project-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-⭐ Explore • Collaborate • Build
+  <p><strong>Engineering dependable solutions for real-world challenges.</strong></p>
 
 </div>
